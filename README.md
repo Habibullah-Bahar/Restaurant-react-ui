@@ -2,7 +2,7 @@
 
 A modern, responsive restaurant website interface built with React. Visitors can explore the menu, learn about the restaurant, and get in touch, all through a clean and appealing UI.
 
-🔗 **Live Demo:** [https://restaurant-react-ui.vercel.app](https://restaurant-react-ui.vercel.app/)
+🔗 **Live Website:** [https://restaurant-react-ui.vercel.app](https://restaurant-react-ui.vercel.app/)
 
 ---
 
